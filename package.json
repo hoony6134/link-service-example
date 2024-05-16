@@ -1,0 +1,21 @@
+{
+  "name": "for-tistory-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/postgres": "^0.8.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-useragent": "^1.0.15",
+    "pg": "^8.11.5",
+    "request-ip": "^3.3.0",
+    "serve-favicon": "^2.5.0"
+  }
+}
